@@ -1,0 +1,25 @@
+dependencies: \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignal.m \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignal.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalInternal.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OSObservable.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalNotificationSettings.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OSPermission.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OSSubscription.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalTracker.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalHTTPClient.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalTrackIAP.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalLocation.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalReachability.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalJailbreakDetection.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalMobileProvision.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalAlertViewDelegate.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalHelper.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalWebView.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/UNUserNotificationCenter+OneSignal.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalSelectorHelpers.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/UIApplicationDelegate+OneSignal.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/NSString+OneSignal.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalNotificationSettingsIOS10.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalNotificationSettingsIOS8.h \
+  /Volumes/DATA/Work/gil_react/gamperl-rn/node_modules/react-native-onesignal/ios/OneSignalNativeSDK/OneSignal/OneSignalNotificationSettingsIOS7.h

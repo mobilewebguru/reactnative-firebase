@@ -1,0 +1,230 @@
+{
+  "APP_NAME": "StriderTrends",
+
+  //-------------------------Base------------------------------
+  "YES": "Ja",
+  "NO": "Nein",
+  "OK": "OK",
+  "CANCEL": "ABBRECHEN",
+  "EDIT": "ändern",
+  "SAVE": "speichern",
+  "UNIT" : "Einheit",
+  "NO_SERVER_CONNECTION": "Keine Verbindung zum Server",
+
+  //Alerts
+  "ALERT_LOGIN_EMPTY_EMAIL": "Bitte geben Sie Ihre E-Mail Adresse ein",
+  "ALERT_LOGIN_INVALID_EMAIL": "Ungültige E-Mail Adresse",
+  "ALERT_LOGIN_EMPTY_PASSWORD": "Bitte geben Sie Ihr Passwort ein",
+  "ALERT_LOGIN_NOMATCH_PASSWORD": "Ungültiges Passwort",
+  "ALERT_LOGIN_EMPTY_NAME": "Bitte geben Sie Ihren Namen ein",
+  "ALERT_LOGIN_EMPTY_TELEPHONE": "Bitte geben Sie Ihre Telefonnummer ein",
+  "ALERT_LOCATION_WARNING": "Sie befinden sich nicht an dem Ort, an dem Sie sich eingeloogt haben, möchten Sie an Ihrem aktuellen Ort Angebote erhalten?",
+  //From Server
+  "ALERT_NO_USER": "Benutzerinformation nicht erhalten.",
+  "ALERT_SIGNED_OUT": "Sie haben sich erfolgreich abgemeldet.",
+  "ALERT_ALREADY_SIGNED_OUT": "Sie haben sich bereits abgemeldet.",
+  "ALERT_REGISTERED": "Sie haben sich erfolgreich registriert.",
+  "ALERT_USER_EXIST": "Benutzer existiert bereits.",
+  "ALERT_REGISTER_FAILED": "Konnte sich nicht registrieren.",
+  "ALERT_NO_DELETE_IMAGE": "Foto kann nicht gelöscht werden.",
+  "ALERT_PENDING_REQUEST": "Sie haben nun eine Anfrage erhalten.",
+  "ALERT_DUPLICATE_OFFER": "Sie haben bereits zu diesem Zeitpunkt einen Termin angenommen.",
+  "ALERT_NEW_REQUEST": "Sie haben eine neue Anfrage erhalten.",
+  "ALERT_UPLOAD_IMAGE_FAILED": "Bild kann nicht an Server hochgeladen werden.",
+
+  //-------------------------Common------------------------------
+  //Select user type
+  "LOGIN_FREELANCER": "Login als Stylist/ Trainer",
+  "LOGIN_USER": "Login als Kunde",
+  //Login
+  "FREELANCER": "Stylist/ Trainer",
+  "USER": "Kunde",
+  "EMAIL": "E-Mail Adresse",
+  "PASSWORD": "Passwort",
+  "RESEND_PASSWORD": "Passwort erneut senden",
+  "FORGOT_YOUR": "Passwort vergessen?",
+  "LOGIN": "Login",
+  "REGISTER_FOR_FREE": "kostenlos registrieren",
+  "TERM1": "Durch die Nutzung dieser App stimmen Sie den",
+  "TERM2": "",
+  "TERM3": "Allgemeinen Geschäftsbedingungen und Datenschutzrichtlinien",
+  "TERM4": "von Stylenow zu",
+  "LOGOUT": "logout",
+  "AUTHENTICATION": "Authentifizierung",
+  //Password Resent
+  "EMAIL_SENT": "Passwort Link gesendet",
+  "MAIL_RESENT_DESCRIPTION": "Ihr Link zum Zurücksetzen Ihres Passwortes wurde an Ihre E-Mail Adresse gesandt",
+  "BACK_LOGIN": "zurück zum Login",
+  //Register
+  "REGISTER": "Registrieren",
+  "FIRSTNAME": "Vorname",
+  "LASTNAME": "Nachname",
+  "TELEPHONE": "Telefon",
+  "CONFIRM_PASSWORD": "Passwort wiederholen",
+  "CONTINUE": "Weiter",
+  "UPLOAD_PHOTO": "Laden Sie Ihr Foto",
+  "LOCATION_ERROR_TITLE": "Falscher Ort",
+  "LOCATION_ERROR_MESSAGE": "Registrierung ohne Ortsangabe nicht möglich",
+  "LOCATION_ACCESS_TITLE": "Dürfen wir auf deinen Standort zugreifen?",
+  "LOCATION_ACCESS_MESSAGE": "Stylenow verwendet deinen Standort um den besten Service in deiner Nähe zu finden",
+  "NO_WAY": "niemals",
+  "OPEN_SETTINGS": "Einstellungen",
+  //Drawer
+  "DASHBOARD": "Kalender",
+  "MYPROFILE": "Mein Profil",
+  "GET_HELP": "Hilfe",
+  "FIND_FREELANCER" : "Finde Deinen Stylisten/ Trainer",
+  "MYBOOKINGS" : "Meine Buchungen",
+  "FOLLOWUS" : "Folge uns auf",
+  "TERMS_AND_CONDITIONS" : "Allgemeine Geschäftsbedingungen",
+  //LocationProperty
+  "LOCATION_UPDATE_SUCCESS": "Ihr Standort wurde erfolgreich aktualisiert",
+  //-------------------------Freelancer------------------------------
+  //Profile
+  "REVIEWS": "Bewertungen",
+  "TAKE_PHOTO": "FOTO AUFNEHMEN",
+  "PICK_FROM_LIBRARY": "AUS ALBUM WÄHLEN",
+  "MY_WORK_EXAMPLES": "Beispiele meiner Arbeit",
+  "ABOUT_ME": "Über mich",
+  "MY_OFFER": "Mein Angebot für Sie",
+  "MY_ABILITY": "Meine Erreichbarkeit",
+  "SHOW_MORE": "ich möchte mehr sehen",
+  "PRODUCTS": "Produkte",
+  "MAIN_CATEGORY": "Hauptkategorie",
+  "SUB_CATEGORY": "Unterkategorie",
+  "PRICE": "Preis",
+  "ALERT_EMPTY_MAIN_CATEGORY": "Bitte wählen Sie eine Hauptkategorie",
+  "OPEN_SETTING": "Einstellungen öffnen",
+  "CAN_ACCESS_PHOTO_TITLE": "Darf Stylenow auf Ihre Kamera und Ihre Fotos zugreifen?",
+  "CAN_ACCESS_PHOTO_BODY": "Stylenow benötigt Zugriff um Ihren Avatar zu setzen",
+  "NO_WAY": " Nicht möglich",
+  //Purchase Plan
+  "REVEAL_CONTACT_INFO": "Kontaktinformation offenlegen",
+  "GET_ACCESS": "Zutritt zu unbegrenzten Anwendungen",
+  "TIME": "Zeit",
+  "MONTHS": "Monate",
+  "YEAR": "Jahr",
+  "PAYMENT_ONCE": "9.99€/req",
+  "PAYMENT_SIX_MONTHS": "4.9€/month",
+  "PAYMENT_YEAR": "249€/year",
+  "PAYMENT_DESCRIPTION1": "reveal\nthis\nrequest",
+  "PAYMENT_DESCRIPTION2": "reveal\nall requests\nwithin the\nnext 6\nmonths",
+  "PAYMENT_DESCRIPTION3": "reveal\nall\nrequests\nwithin the\nnext 1 year",
+  //New Requests
+  "YOU_HAVE_NEW_REQUEST": "Sie haben eine neue Anfrage erhalten",
+  "TODASHBOARD": "Zum Kalender",
+  "SKIP": "Skip",
+  //View Request detail
+  "CLICK_ACCEPT": "Akzeptieren",
+  "CLICK_DECLINE": "Ablehnen",
+  "CLICK_CALL": "Anrufen",
+  "OFFER_ACCEPTED": "Auftrag akzeptiert",
+  "OFFER_ACCEPTED_DESCRIPTION": "sieht nun den Auftrag als bestätigt. Sie können nun anrufen.",
+  "OFFER_DECLINE_CONFIRM_DESCRIPTION": "Sind Sie sicher, dass Sie den Auftrag ablehnen wollen?",
+  "YOU_NOT_ACCEPTED": "Sie haben den Auftrag noch nicht akzeptiert.",
+  //Requests for date
+  "ACCEPTED": "akzeptiert",
+  "DECLINED": "abgelehnt",
+  //Dashboard
+  "NO_OFFERS": "Sie haben keine Aufträge am",
+  "NO_BOOKINGS": "Sie haben keine Aufträge am",
+  //-------------------------User------------------------------
+  //Profile for user
+  "PHONE_NUMBER": "Telefonnummer",
+  "RATE_PAST_JOB": "Bewerten Sie Ihre letzten Aufträge",
+  //Search Freelancer (Google Map)
+  "SEARCH_PLACEHOLDER": "Wo benötigst du jemanden?",
+  "WHAT_ARE_YOU_LOOKING": "Stylenow hat Deinen Stylisten/ Trainer",
+  //My Bookings
+  "ACTIVE_BOOKINGS": "Aktuelle Buchungen",
+  "ACCEPTED_BOOKINGS": "Bestätigte Buchungen",
+  "PENDING_BOOKINGS": "Anstehende Buchungen",
+  "BOOKING_HISTORY": "Meine getätigten Buchungen",
+  "CONFIRMED": "bestätigt",
+  //Booking Main
+  "MY_WORKS": "Meine Arbeiten",
+  "DATE&TIME": "Datum & Uhrzeit",
+  "OFFER_SELECT_WARNING": "Bitte wählen Sie ein Angebot aus",
+  "SEND_REQUEST": "Anfrage senden",
+  "OFFER_SENT": "Anfrage gesandt!",
+  "OFFER_VALIDATION_WARNING": "Der Stylist/ Trainer hat 30 Minuten Zeit um Ihre Anfrage zu akzeptieren.",
+  "HOME": "Home",
+  "TOTAL": "Total",
+  //Booking List
+  //Booking CropDetail
+  "CALL": "Anrufen",
+  "FREELANCER_NOT_ACCEPTED": "Ihr Stylist hat Ihre Anfrage noch nicht angenommen.",
+  //Booking Rate
+  "THANK" : "Vielen Dank!",
+  "PLEASE_RATE" : "Bitte bewerten Sie Ihren Stylisten/ Trainer",
+  "TYPE_STH" : "Schreibt gerade....",
+  "FINISH" : "finish",
+
+  //-------------------------TEMP------------------------------
+  //Profile Placeholder
+  "HAIR_STYLE": "HAIR STYLE",
+  "PEDICURE/MANICURE": "PEDIKÜRE/ MANIKÜRE",
+  "MAKEUP": "MAKE UP",
+  "PERSONALTRAINER": "PERSONAL TRAINER",
+  "YOGA_": "YOGA",
+
+  "HAIR_CUTTING": "Haare schneiden",
+  "HAIR_COLORING": "Haare färben",
+  "HAIR_WAVING": "Hair waving",
+  "YOGA1": "1 Stunde",
+  "YOGA2": "2 Stunden",
+  "YOGA3": "Paket 10 Stunden",
+  "PERSONAL1": "1 Stunde",
+  "PERSONAL2": "2 Stunden",
+  "PERSONAL3": "Paket von 10 Stunden",
+  "NAIL_CUTTING": "Maniküre mit Lack",
+  "NAIL_COLORING": "Maniküre French",
+  "MAKE_UP1": "Tages –Make-Up",
+  "MAKE_UP2": "Abend-Make-Up",
+  "MAKE_UP3": "Permanent Make-Up",
+
+  "HAIR": "Haare",
+  "YOGA": "Yoga",
+  "PERSONAL_TRAINER": "Personal Trainer",
+  "NAILS": "Nails",
+  "MAKE_UP": "Make up",
+
+
+  //Authentication
+  "CONTINUE_TO_PROFILE": "weiter zum Profil",
+  "ENTER_RESET_EMAIL": "Bitte geben Sie Ihre E-Mail Adresse ein, um weitere Informationen zum Zurücksetzen Ihres Passwortes zu erhalten",
+  "ALMOST_DONE": "Fast fertig!",
+  "ALMOST_DONE_DESCRIPTION1": "Sie können sich jetzt einloggen",
+  "ALMOST_DONE_DESCRIPTION2": "in Ihren Account, aber noch nicht das Arbeiten beginnen",
+  "ALMOST_DONE_DESCRIPTION3": "bis Sie sich in unserem Büro",
+  "ALMOST_DONE_DESCRIPTION4": "registriert haben",
+  "ACTIVE_PROFILE_DESCRIPTION1": "Bitte aktivieren Sie erst Ihr Profil",
+  "ACTIVE_PROFILE_DESCRIPTION2": "in unserem Büro, bevor",
+  "ACTIVE_PROFILE_DESCRIPTION3": "Sie die APP nutzen können.",
+  //Credit
+  "CREDIT_CARD": "Kreditkarte",
+  "CREDIT_CARD_PAYMENT": "Zahlung mit Kreditkarte",
+  "CREDIT_CARD_NUMBER": "Kreditkartennummer",
+  "EXPIRES": "Gültig bis",
+  "SECURITY_CODE": "Sicherheitscode",
+  "PAYMENT_INFORMATION": "Zahlungsinformationen",
+  //Availability
+  "AVAILABILITY": "Erreichbarkeit",
+  "OVERAL_BLOCKED_TIME": "Keine Geschäftszeiten",
+  "BLOCK": "blockieren",
+  "BLOCK_ALL": "alles blockieren",
+  //Profile
+  "INACTIVE": "inaktiv",
+  "ACTIVE": "aktiv",
+  "JOB_CANCELED": "Buchungen storniert",
+  "JOB_COMPLETED": "Aufträge erledigt",
+  //Gallery
+  "LOADING_ALBUM": "Album lädt",
+  //Chat
+  "BLOCK_ALERT": "Wenn Sie diesen Stylisten blockieren, können Sie keine Buchungsanfragen mehr stellen. Wenn Sie diesen Kunden blockieren, können Sie keine Buchungsanfragen mehr erhalten.",
+  "REPORT": "Bericht",
+  //Messages
+  "MESSAGES": "Nachrichten",
+  //Booking CropDetail
+  "YOUR_BOOKING_REQUEST": "Ihre Buchungsanfragen"
+}

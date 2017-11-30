@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-android-location-services-dialog-box/android/react-native-android-location-services-dialog-box.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-android-location-services-dialog-box/android/react-native-android-location-services-dialog-box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-billing/android/react-native-billing.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-billing/android/react-native-billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-cardview/android/react-native-cardview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-cardview/android/react-native-cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-geocoder/android/react-native-geocoder.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-geocoder/android/react-native-geocoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-i18n/android/react-native-i18n.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-i18n/android/react-native-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/react-native-image-resizer.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-maps/android/react-native-maps.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-maps/android/react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-material-kit/android/react-native-material-kit.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-material-kit/android/react-native-material-kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-onesignal/android/react-native-onesignal.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-onesignal/android/react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-spinkit/android/react-native-spinkit.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-spinkit/android/react-native-spinkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/style now.iml" filepath="$PROJECT_DIR$/style now.iml" />
+    </modules>
+  </component>
+</project>

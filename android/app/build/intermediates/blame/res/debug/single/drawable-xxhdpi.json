@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png",
+        "source": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_stat_onesignal_default.png",
+        "source": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/res/drawable-xxhdpi/ic_stat_onesignal_default.png"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "420758309923",
+    "firebase_url": "https://calcium-petal-177918.firebaseio.com",
+    "project_id": "calcium-petal-177918",
+    "storage_bucket": "calcium-petal-177918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420758309923:android:0c996fda7559393e",
+        "android_client_info": {
+          "package_name": "com.se.stylenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420758309923-77lf8b048krbu8svlvm33s2srijjc4b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTmq_yjKPp3Kk0bKQl_8jhSdzcDRgmbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

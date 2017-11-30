@@ -1,0 +1,4 @@
+#Fri Nov 17 18:35:18 WET 2017
+base.0=/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

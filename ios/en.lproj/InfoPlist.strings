@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Gamperl
+
+  Created by admin on 9/14/17.
+  Copyright © 2017 Facebook. All rights reserved.
+*/
+"NSLocationAlwaysUsageDescription" = "Stylenow is using your location so other users can search for services in your area";
+"NSPhotoLibraryUsageDescription" = "Use pictures from your album to create your profile";
+"NSCameraUsageDescription" = "Use camera to create your profile";

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/kdev/.android/build-cache/7a8cde6fd007acc3219d853e12409eb86eb05d3b/output/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

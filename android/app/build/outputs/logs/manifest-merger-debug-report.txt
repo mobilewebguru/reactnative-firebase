@@ -1,0 +1,600 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:20:5-66
+MERGED from [style now:react-native-maps:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-maps/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/AndroidManifest.xml:20:5-66
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/kdev/.android/build-cache/7561e36d232bb87de559e02ff158e6661f51c160/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/kdev/.android/build-cache/f8344ea62a80f3ebf373bcfb652cfc1e748e2038/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/kdev/.android/build-cache/b1f9b459fdb03b1cfff43856a2e3af46ad6d3937/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/cffc34ff6e79c2cdf66ce29c32195d0cdb39bab8/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/AndroidManifest.xml:19:5-78
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/kdev/.android/build-cache/b1f9b459fdb03b1cfff43856a2e3af46ad6d3937/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/cffc34ff6e79c2cdf66ce29c32195d0cdb39bab8/output/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [style now:react-native-maps:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-maps/android/build/intermediates/bundles/default/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [style now:react-native-android-location-services-dialog-box:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-android-location-services-dialog-box/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:8:5-77
+MERGED from [com.facebook.react:react-native:0.43.3] /Users/kdev/.android/build-cache/7a8cde6fd007acc3219d853e12409eb86eb05d3b/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:8:22-75
+application
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:10:5-43:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/kdev/.android/build-cache/b58d0b4d9e16d984533a0c1450aec272eb5caf98/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/AndroidManifest.xml:4:5-7:19
+MERGED from [style now:react-native-fbsdk:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:customtabs:25.0.0] /Users/kdev/.android/build-cache/cc4d756e1f7ec69378346b44a3039ce818891def/output/AndroidManifest.xml:22:5-20
+MERGED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/AndroidManifest.xml:24:5-19
+MERGED from [style now:react-native-spinkit:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-spinkit/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/kdev/.android/build-cache/22d9b097c18bb83823050bb20bf965728419fa26/output/AndroidManifest.xml:22:5-20
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:49:5-104:19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/kdev/.android/build-cache/7561e36d232bb87de559e02ff158e6661f51c160/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/kdev/.android/build-cache/f8344ea62a80f3ebf373bcfb652cfc1e748e2038/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/kdev/.android/build-cache/b1f9b459fdb03b1cfff43856a2e3af46ad6d3937/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/kdev/.android/build-cache/4324b923c376b13bb641212513b2c194126a3d76/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/cffc34ff6e79c2cdf66ce29c32195d0cdb39bab8/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/kdev/.android/build-cache/fff07d6867ad39bf3fdb34aff5148c6f27fbecee/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/kdev/.android/build-cache/f4f5d92b616954c8cc22f585ee766d359124f518/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/kdev/.android/build-cache/24dba4e3506e3535456be965bc4b507dbfb2cd3f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/kdev/.android/build-cache/ff6a445e943d9659356849e6028281d4894deb32/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.react:react-native:0.43.3] /Users/kdev/.android/build-cache/7a8cde6fd007acc3219d853e12409eb86eb05d3b/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/kdev/.android/build-cache/08fe0227effa5fe0f0b0b3bf8892500b7a0ba997/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/kdev/.android/build-cache/b0ad50142a7685fc5cd91a10cad4bf4cfa73c0e1/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/kdev/.android/build-cache/2c8ee83fd7a6ca71fb3e26952ee12e1a9bc864da/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/kdev/.android/build-cache/12afc3ec2e8948a2bde7845de1cfdceeb47d6a27/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/kdev/.android/build-cache/1f83c17ad7633c5aa9816ef6a904cca6363ad505/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/kdev/.android/build-cache/90f8fbeaa512e5113251dc6628095b8f63e77c8f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/kdev/.android/build-cache/249c6bbc54db41904df9b398dd912de9c6231aab/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/kdev/.android/build-cache/4c6d9fd587cca19e5b8dfcc4b2961e19baac3236/output/AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/kdev/.android/build-cache/28802e553ff20290123d8cd8e57f49dd5f828d82/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/kdev/.android/build-cache/79d851019a5c11040b4429375956a76ced82d84c/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from [style now:react-native-spinkit:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-spinkit/android/build/intermediates/bundles/default/AndroidManifest.xml:13:9-35
+	android:launchMode
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:12:9-40
+	android:allowBackup
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:11:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:21:9-23:54
+	android:value
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:23:13-51
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:22:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:24:9-107
+	android:value
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:24:66-105
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:24:20-65
+provider#com.facebook.FacebookContentProvider
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:26:9-28:39
+	android:authorities
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:26:19-85
+	android:exported
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:27:13-64
+activity#com.se.stylenow.MainActivity
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:30:9-41:20
+	android:screenOrientation
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:32:13-45
+	android:launchMode
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:33:13-48
+	android:windowSoftInputMode
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:36:13-52
+	android:configChanges
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:35:13-83
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:42:9-86
+	android:name
+		ADDED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:42:19-83
+uses-sdk
+INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/kdev/.android/build-cache/b58d0b4d9e16d984533a0c1450aec272eb5caf98/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/AndroidManifest.xml:3:5-43
+MERGED from [style now:react-native-fbsdk:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:25.0.0] /Users/kdev/.android/build-cache/cc4d756e1f7ec69378346b44a3039ce818891def/output/AndroidManifest.xml:20:5-44
+MERGED from [style now:react-native-android-location-services-dialog-box:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-android-location-services-dialog-box/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [style now:react-native-i18n:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-i18n/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [style now:react-native-image-resizer:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-resizer/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [style now:react-native-maps:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-maps/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/AndroidManifest.xml:23:5-43
+MERGED from [style now:react-native-material-kit:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-material-kit/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-44
+MERGED from [style now:react-native-spinkit:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-spinkit/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/kdev/.android/build-cache/752d6b3869f19b171542c5db36200f568fc482dd/output/AndroidManifest.xml:6:5-8:41
+MERGED from [style now:react-native-vector-icons:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [style now:react-native-cardview:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-cardview/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/kdev/.android/build-cache/22d9b097c18bb83823050bb20bf965728419fa26/output/AndroidManifest.xml:20:5-43
+MERGED from [style now:react-native-geocoder:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-geocoder/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [style now:react-native-onesignal:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-onesignal/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/kdev/.android/build-cache/7561e36d232bb87de559e02ff158e6661f51c160/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/kdev/.android/build-cache/f8344ea62a80f3ebf373bcfb652cfc1e748e2038/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/kdev/.android/build-cache/b1f9b459fdb03b1cfff43856a2e3af46ad6d3937/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/kdev/.android/build-cache/4324b923c376b13bb641212513b2c194126a3d76/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/cffc34ff6e79c2cdf66ce29c32195d0cdb39bab8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/kdev/.android/build-cache/fff07d6867ad39bf3fdb34aff5148c6f27fbecee/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/kdev/.android/build-cache/f4f5d92b616954c8cc22f585ee766d359124f518/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/kdev/.android/build-cache/24dba4e3506e3535456be965bc4b507dbfb2cd3f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/kdev/.android/build-cache/ff6a445e943d9659356849e6028281d4894deb32/output/AndroidManifest.xml:17:5-43
+MERGED from [style now:react-native-billing:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-billing/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.43.3] /Users/kdev/.android/build-cache/7a8cde6fd007acc3219d853e12409eb86eb05d3b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/kdev/.android/build-cache/08fe0227effa5fe0f0b0b3bf8892500b7a0ba997/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/kdev/.android/build-cache/b0ad50142a7685fc5cd91a10cad4bf4cfa73c0e1/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/kdev/.android/build-cache/dc56d79bc94c3ed04ad7222e851534e291e504cd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/kdev/.android/build-cache/2c8ee83fd7a6ca71fb3e26952ee12e1a9bc864da/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/kdev/.android/build-cache/12afc3ec2e8948a2bde7845de1cfdceeb47d6a27/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/kdev/.android/build-cache/1f83c17ad7633c5aa9816ef6a904cca6363ad505/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/kdev/.android/build-cache/90f8fbeaa512e5113251dc6628095b8f63e77c8f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/kdev/.android/build-cache/249c6bbc54db41904df9b398dd912de9c6231aab/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/kdev/.android/build-cache/4c6d9fd587cca19e5b8dfcc4b2961e19baac3236/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/kdev/.android/build-cache/2cee30ea572f19305d368764639f2eb6d58c498e/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/kdev/.android/build-cache/42f4b425679a723f41993de2d1063dc7a9ad4c61/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/kdev/.android/build-cache/bf65f7df8d4a08ae913790a4c9a0e2bab490d2d3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/kdev/.android/build-cache/9383612a5ab467676816acc3dd0b5a56f2216768/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/kdev/.android/build-cache/8be5f6eb79c6dd8632c73c969052a7ffdb1ec1cc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/kdev/.android/build-cache/6e2465f0faa5b92b4c59fdc400d3d7c5a9c81af7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/kdev/.android/build-cache/3bf92e4260aca6fab358ecc0569d76a9d31c280b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/kdev/.android/build-cache/28802e553ff20290123d8cd8e57f49dd5f828d82/output/AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:21:5-67
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:19:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/kdev/.android/build-cache/b1f9b459fdb03b1cfff43856a2e3af46ad6d3937/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/cffc34ff6e79c2cdf66ce29c32195d0cdb39bab8/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/AndroidManifest.xml:33:16-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:22:5-81
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:18:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/kdev/.android/build-cache/7561e36d232bb87de559e02ff158e6661f51c160/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/kdev/.android/build-cache/f8344ea62a80f3ebf373bcfb652cfc1e748e2038/output/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/AndroidManifest.xml:6:79-143
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/AndroidManifest.xml:45:13-70
+uses-permission#android.permission.CAMERA
+ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [style now:react-native-camera:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:17:9-57
+provider#android.support.v4.content.FileProvider
+ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [style now:react-native-image-picker:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:18:17-67
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/AndroidManifest.xml:21:52-75
+permission#com.se.stylenow.permission.C2D_MESSAGE
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:8:5-10:47
+uses-permission#com.se.stylenow.permission.C2D_MESSAGE
+MERGED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:12:5-79
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:30:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:47:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:50:9-52:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:51:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:55:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:58:9-68:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:59:13-62
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:69:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:71:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:71:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:72:9-74:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:73:13-61
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:76:13-56
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:78:9-80:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:79:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:81:9-83:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:83:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:82:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:84:9-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:84:18-58
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:86:9-88:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:88:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:87:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:90:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:90:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:92:9-98:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:92:19-62
+intent-filter#android.intent.action.ACTION_BOOT_COMPLETED+android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:93:13-97:29
+action#android.intent.action.ACTION_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:94:17-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:94:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:95:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:95:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:96:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:96:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:99:9-103:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:99:19-63
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:100:13-102:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:101:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.6.5] /Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/AndroidManifest.xml:101:25-81
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/kdev/.android/build-cache/f4f5d92b616954c8cc22f585ee766d359124f518/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/kdev/.android/build-cache/f4f5d92b616954c8cc22f585ee766d359124f518/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/kdev/.android/build-cache/f4f5d92b616954c8cc22f585ee766d359124f518/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/kdev/.android/build-cache/f4f5d92b616954c8cc22f585ee766d359124f518/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/kdev/.android/build-cache/ff6a445e943d9659356849e6028281d4894deb32/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/kdev/.android/build-cache/ff6a445e943d9659356849e6028281d4894deb32/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/kdev/.android/build-cache/ff6a445e943d9659356849e6028281d4894deb32/output/AndroidManifest.xml:20:20-65
+uses-permission#com.android.vending.BILLING
+ADDED from [style now:react-native-billing:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-billing/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [style now:react-native-billing:unspecified] /Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-billing/android/build/intermediates/bundles/default/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

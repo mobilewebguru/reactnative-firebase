@@ -1,0 +1,33 @@
+const images = {
+    bkgLogin: require('@assets/images/bkglogin.png'),
+    bkgSplash: require('@assets/images/bkgsplash.png'),
+    imgLogo: require('@assets/images/logo.png'),
+    imgMarketingIcon: require('@assets/images/marketingIcon.png'),
+    imgAvatarPlaceholder: require('@assets/images/imgAvatar.png'),
+    imgAccepted: require('@assets/images/imgAccepted.png'),
+    imgHelp: require('@assets/images/imgHelp.png'),
+    imgSampleAvatar: require('@assets/images/imgSampleAvatar.png'),
+    imgDrawer: require('@assets/images/drawer.png'),
+    imgRegisterDone: require('@assets/images/registerDone.png'),
+    imgWomanMark: require('@assets/images/woman_mark.png'),
+    imgRoundMark: require('@assets/images/imgRoundMark.png'),
+    imgCropImage: require('@assets/images/cropImage.png'),
+    imgStepImage: require('@assets/images/stepImage.png'),
+    imgCalendarImage: require('@assets/images/calendar.png'),
+    imgSkillIcons: [
+        require('@assets/images/skill1.png'),
+        require('@assets/images/skill2.png'),
+        require('@assets/images/skill3.png'),
+        require('@assets/images/skill4.png'),
+        require('@assets/images/skill5.png'),
+        require('@assets/images/skill6.png'),
+    ],
+    imgMark1: require('@assets/images/mark1.png'),
+    imgMark2: require('@assets/images/mark2.png'),
+    imgMark3: require('@assets/images/mark3.png'),
+    imgMark4: require('@assets/images/mark4.png'),
+    imgMark5: require('@assets/images/mark5.png'),
+    imgMarkMine: require('@assets/images/markMine.png'),
+};
+
+export default images;

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

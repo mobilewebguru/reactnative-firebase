@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/bf65f7df8d4a08ae913790a4c9a0e2bab490d2d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_c067bae7e0459ddec66fb41b2dec1d7f088f0806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/cc4d756e1f7ec69378346b44a3039ce818891def/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_db330cca23318b8d687760e6de58c3c54c0c4b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_3e6705448cf465f8992f5f05f32a7e95d91cd63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/22d9b097c18bb83823050bb20bf965728419fa26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_7db2cc6dd95d058f49118a818096a4312bffa2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_65734f00caedf3c3d293a0558108b8b0c8d916e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/3bf92e4260aca6fab358ecc0569d76a9d31c280b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_d88efedff6124ddb2fde1a291f5e5c395dce6703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="283cde9a97e752bf216fb0590f58e3d6e8cf2f3a">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_b42ac148e7c71c7ffe14df8d1eadacd9eb687892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/28802e553ff20290123d8cd8e57f49dd5f828d82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_32c21254a39805b9206903fc9895050bdaf5df38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/f4f5d92b616954c8cc22f585ee766d359124f518/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_5cb4102ac016f00faea2bed215da7945afd03a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/8be5f6eb79c6dd8632c73c969052a7ffdb1ec1cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_210e9b87a99c2575b6d2520a0e0c49d4df0e708f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_e735ee5eb1e8778d920261b5ec7d074548109625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/fff07d6867ad39bf3fdb34aff5148c6f27fbecee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_7458473807bc8adb48f0869b3a34d14293cc110a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.anjlab.android.iab.v3/library/1.0.36/abc65224dad743a5f3269c7f22c934fcf94aadc0/library-1.0.36.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abc65224dad743a5f3269c7f22c934fcf94aadc0">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/library-1.0.36_153e81d5c0dc91f8772e6fe21b0ec5f25361854d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_d5ddbd1f7e9bd40b692ec8be09e21b81c0fb3358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/f8344ea62a80f3ebf373bcfb652cfc1e748e2038/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_094274bac57e5cc01f79fb70334dbc840baa2459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/a0d2c04a823098a90548a3b905f2bdffb32a7715/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_b83965e9863a6e5dbd4151f51cc731006f5b62d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/21c113ae8039cbe30284656f9a3f34f7db944ff4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_5164d421a9f867bcb0dfbf99296d2adf833a9d45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/cffc34ff6e79c2cdf66ce29c32195d0cdb39bab8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_2639db964fd2b7c33b7180162bfd68378b42dace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/f74aae3235128d5d0fef24a0ebc1c3d4cfcf7dcb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfff80b6e21c10f40ec59c0e5d86d00bd67a1f35">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_37fa4d18049aa39bb04536821c6995b04d85e55d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-android-location-services-dialog-box/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b5318e1b7eb9a882f1b3c35cffee8e47b5f7a14">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_39ff0b46f000da2246e31aefadf21e8607c32bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/37fd53c1aa8fbededf0fb17cd457352868d60c86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_904733badd8328bf875a459c7e3e1c2c92b15724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/752d6b3869f19b171542c5db36200f568fc482dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_c438c170085964fe03c7512cc68dea33bbbcd485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/12afc3ec2e8948a2bde7845de1cfdceeb47d6a27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_a38d40eb23c41df9a4dddddc255173430da40f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_edaee3e458da3aa25d7b15dc860d478f37d68f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/b1f9b459fdb03b1cfff43856a2e3af46ad6d3937/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_7ee2ede4c6503bb65408c2e06a16eec9cacb3b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-spinkit/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a86437588a831c33a46347cdfe7a514ca6a7d8c">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_4c39c5b6ff8b57a96c80ca662f75ad5e68b7a0b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-maps/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfe415137a847f99a59cee27485aea5dedd9b09c">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_3864799ce84a201ce700280950ebec9c4dd097cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/7561e36d232bb87de559e02ff158e6661f51c160/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_6da92dafc47a4e2ccd09a5895ce0b88437af75aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-onesignal/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b3eb17d5232d576dc613f658d82d2da04e1b99">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_19bde2a34fcb4c6218ee5e0230d63923952e930b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-resizer/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3689da4786d5e3cb4170f06613c39335c59a9e74">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_c224ce231e6921dcda3fb4e9f057d10504cfdf88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-billing/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2fcab0d0d71c4e3fdbc17b3695823040a70b85b">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_8a985391d483b9a26910ec1373c5d7746f55857b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/6ab5b6ee923ff75cf6e71b1e3d168f27c2105d21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_2cae82a3e3022db078a9cff321870785dc33556f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_45436fba192b37e68f5a77378e90ff85ca1b61de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/249c6bbc54db41904df9b398dd912de9c6231aab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_08c5f43a779609af5072ab094dfae8318a19e8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4d77123337ba59f7d84b4cf23518972313d0436d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/dc56d79bc94c3ed04ad7222e851534e291e504cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_5d1382c304dc6f9d8f63bdd4c746fa512518049f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/ff6a445e943d9659356849e6028281d4894deb32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_d4a93ff636c1c852b15f8d5c9010fa73d4c3259a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/7a8cde6fd007acc3219d853e12409eb86eb05d3b/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_2e501fa22587156319308efcc35f87094f21bead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/b0ad50142a7685fc5cd91a10cad4bf4cfa73c0e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_fb4056d2825d8d1384c986a58e594f7ede26efa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/9383612a5ab467676816acc3dd0b5a56f2216768/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_a105892b2e6ef9a5fd2b6c6aad07cffab06393ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_a8b6bd1fcfb1229f04a515fa1a7c256f0719a123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-i18n/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="265d5a9330ad02283d16b9886fe8acebb306cd1e">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_f5d23365a9594a14b025548ae704f18195f4dce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/24dba4e3506e3535456be965bc4b507dbfb2cd3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_22461254f88617a8c85cd4d83b5cf993d18ab445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/1f83c17ad7633c5aa9816ef6a904cca6363ad505/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_79980a9c2687a086529ec92a7470bc703ee67e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="141aa436ec711c43de370a7f156fc19fbe53a469">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_276b0f65709a6e956ea94b6572fdcc1a99e6bf04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/4fea8d208bbfd98109d251de93ae6547b61be0f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_e8fb433ac908b41594b3459afe4fe888abf7c683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/42f4b425679a723f41993de2d1063dc7a9ad4c61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_989300a74fc27c8346ffec390410f7bd75b287e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e899da5abad48848518c24bcb3688c80a81b08b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-material-kit/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="882aef412fe4f41b8427871e318712dc59c2a553">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_d0d77e2e3747e0e41c930d348d3a5796a4482c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/6bb0b89519fcdbfb485445588e9ba8e1cfa99fa2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_a8c3e3718b0521187f4adf84b29c51f858c5c9aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_aa0a2100f970d456c993826746bef7c505d3b723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_f2be0398ba63a8475cbbd22690f7a27fa31e7263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_e47a447cd4d6f78018962e1435b7af5562a4e3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/2c8ee83fd7a6ca71fb3e26952ee12e1a9bc864da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_9f0ee6b3f94a73b6a40f0a8acd490354785bffbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bfb43d910d069e46b9097dcc7cff9e4a769d2011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-cardview/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa08d703af609d4daf4b4985b6d920495de30014">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_f18221f5a48f8d99ed6ebe5343cce57c049c2c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/90f8fbeaa512e5113251dc6628095b8f63e77c8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_0e3609fc8004a10f5a36113645d5bf922d6f8fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-geocoder/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f52090c69e53ec818bc2768bdf43bfbcf832bfb4">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_6a28ae8f9986722c0edeebcb007465a31f6b6915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_0e9022ce0009719a39a96cab361f0c9fb4c91c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/2cee30ea572f19305d368764639f2eb6d58c498e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_c4278c42e67bfd3965a1f8e89862aae413e78a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/7a8cde6fd007acc3219d853e12409eb86eb05d3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_b616e0eec16904aafb88e045508d84ad86618a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_492c02fb746fd5c838e51ebaaa10f8f59b3ffb11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/4324b923c376b13bb641212513b2c194126a3d76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_869b2e9313663627323f4dfdaedb4a5311595622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/08fe0227effa5fe0f0b0b3bf8892500b7a0ba997/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_207a32b2a96b643de657e3be1e6e0eca4bdfe71c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/6e2465f0faa5b92b4c59fdc400d3d7c5a9c81af7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_da8e92151691f8912d374711dde273546f494c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/4c6d9fd587cca19e5b8dfcc4b2961e19baac3236/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_cc56b176bc6c30052cf333c10ac0ea77b4afd8c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kdev/.android/build-cache/aca77119aa1508d07a9ad35fc0f1f479d83771e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_6d22f576c4d18e820ad9f68912004fe1ccc32545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA/Work/gil_react/strider-trends-mobile/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="185debb713f05e6ae262b4167d7645dce64ca4cb">
+        <dex dex="/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/pre-dexed/debug/classes_ec12163f404986c077b17c303da8731753ecf0c5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/gil_react/strider-trends-mobile/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/kdev/.android/build-cache/3c7c2a1ea961e9670f6ae374dd2fbdf07d9c015f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
